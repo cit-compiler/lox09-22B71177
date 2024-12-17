@@ -1,4 +1,3 @@
-breakfast  ::=
 breakfast ::= protein ( "with" breakfast "on the side" )?
           | bread
 
